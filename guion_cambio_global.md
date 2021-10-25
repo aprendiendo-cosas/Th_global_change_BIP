@@ -6,7 +6,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Aproximadamente 0,5 horas.
 
-![portada](https://github.com/aprendiendo-cosas/Te_cambio_global_ecologia_ccaa/raw/main/imagenes/portada.png)
+![portada](https://github.com/aprendiendo-cosas/Te_cambio_global_ecologia_ccaa/raw/2020-2021/imagenes/portada.png)
 
 
 
@@ -34,12 +34,12 @@ Por último, resumiremos todo lo anterior en el concepto de Antropoceno, que muc
 
 
 
-Toda la información está disponible en [este](https://github.com/aprendiendo-cosas/Te_cambio_global_ecologia_ccaa/raw/main/presentacion/cambio_global_antropoceno.xmind) mapa mental, que puede verse a continuación y también en [esta](https://aprendiendo-cosas.github.io/Te_cambio_global_ecologia_ccaa/presentacion/c_global.html) página. 
+Toda la información está disponible en [este](https://github.com/aprendiendo-cosas/Te_cambio_global_ecologia_ccaa/raw/2020-2021/presentacion/cambio_global_antropoceno.xmind) mapa mental, que puede verse a continuación y también en [esta](https://rawcdn.githack.com/aprendiendo-cosas/Te_cambio_global_ecologia_ccaa/2020-2021/presentacion/c_global.html) página. 
 
 
 
 <iframe
-  src="https://aprendiendo-cosas.github.io/Te_cambio_global_ecologia_ccaa/presentacion/c_global.html"
+  src="https://rawcdn.githack.com/aprendiendo-cosas/Te_cambio_global_ecologia_ccaa/2020-2021/presentacion/c_global.html"
   style="width:100%; height:450px;"
 ></iframe>
 
