@@ -1,12 +1,12 @@
 # Guión de la sesión denominada "Cambio global. Antropoceno"
 
 
-> + **_Versión_**: 2020-2021
+> + **_Versión_**: 2021-2022
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Aproximadamente 0,5 horas.
 
-![portada](https://github.com/aprendiendo-cosas/Te_cambio_global_ecologia_ccaa/raw/2020-2021/imagenes/portada.png)
+![portada](https://github.com/aprendiendo-cosas/Te_cambio_global_ecologia_ccaa/raw/2021-2022/imagenes/portada.png)
 
 
 
@@ -34,18 +34,14 @@ Por último, resumiremos todo lo anterior en el concepto de Antropoceno, que muc
 
 
 
-Toda la información está disponible en [este](https://github.com/aprendiendo-cosas/Te_cambio_global_ecologia_ccaa/raw/2020-2021/presentacion/cambio_global_antropoceno.xmind) mapa mental, que puede verse a continuación y también en [esta](https://rawcdn.githack.com/aprendiendo-cosas/Te_cambio_global_ecologia_ccaa/2020-2021/presentacion/c_global.html) página. 
+Toda la información está disponible en [este](https://github.com/aprendiendo-cosas/Te_cambio_global_ecologia_ccaa/raw/2021-2022/presentacion/cambio_global_antropoceno.xmind) mapa mental, que puede verse a continuación y también en [esta](https://rawcdn.githack.com/aprendiendo-cosas/Te_cambio_global_ecologia_ccaa/2021-2022/presentacion/c_global.html) página. 
 
 
 
 <iframe
-  src="https://rawcdn.githack.com/aprendiendo-cosas/Te_cambio_global_ecologia_ccaa/2020-2021/presentacion/c_global.html"
+  src="https://rawcdn.githack.com/aprendiendo-cosas/Te_cambio_global_ecologia_ccaa/2021-2022/presentacion/c_global.html"
   style="width:100%; height:450px;"
 ></iframe>
 
 
-## Vídeo de la sesión
 
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_Fac3Bn33ho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
