@@ -35,7 +35,7 @@ Por último, resumiremos todo lo anterior en el concepto de Antropoceno, que muc
 
 
 
-Toda la información está disponible en [este](https://github.com/aprendiendo-cosas/Te_cambio_global_ecologia_ccaa/raw/2021-2022/presentacion/cambio_global_antropoceno.xmind) mapa mental, que puede verse a continuación y también en [esta](https://rawcdn.githack.com/aprendiendo-cosas/Te_cambio_global_ecologia_ccaa/2021-2022/presentacion/c_global.html) página. 
+Toda la información está disponible en [este](https://github.com/aprendiendo-cosas/Te_cambio_global_gesteco/raw/2023_2024/presentacion/cambio_global_antropoceno.xmind) mapa mental, que puede verse a continuación y también en [esta](https://rawcdn.githack.com/aprendiendo-cosas/Te_cambio_global_ecologia_ccaa/2021-2022/presentacion/c_global.html) página. 
 
 
 
