@@ -6,7 +6,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Aproximadamente 1 hora.
 
-![portada](https://github.com/aprendiendo-cosas/Te_cambio_global_ecologia_ccaa/raw/2021-2022/imagenes/portada.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_cambio_global_gesteco_ccaa/2023_2024/imagenes/portada.png)
 
 
 
@@ -19,8 +19,6 @@ Esta sesión nos ayudará a contextualizar el efecto que tiene el cambio global 
 + Entender cómo el cambio global también tiene consecuencias sobre cómo gestionamos los socioecosistemas a escala local.
 + Constatar cómo lo anterior se incluye en los conceptos de cambio global y Antropoceno.
 + Comprender las relaciones entre el cambio global y los ciclos biogeoquímicos. En concreto la relación entre la quema de combustibles fósiles y el cambio climático. 
-
-
 
 
 
@@ -40,7 +38,7 @@ Toda la información está disponible en [este](https://github.com/aprendiendo-c
 
 
 <iframe
-  src="https://rawcdn.githack.com/aprendiendo-cosas/Te_cambio_global_ecologia_ccaa/2021-2022/presentacion/c_global.html"
+  src="https://raw.githack.com/aprendiendo-cosas/Te_cambio_global_gesteco/2023_2024/presentacion/cambio_global_antropoceno.html"
   style="width:100%; height:450px;"
 ></iframe>
 
