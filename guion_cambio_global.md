@@ -1,10 +1,10 @@
 # Guión de la sesión denominada "Cambio global. Antropoceno"
 
 
-> + **_Versión_**: 2021-2022
-> + **_Asignatura (grado)_**: Ecología (CCAA)
+> + **_Versión_**: 2023-2024
+> + **_Asignatura (grado)_**: Gestión de ecosistemas (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
-> + **Duración**: Aproximadamente 0,5 horas.
+> + **Duración**: Aproximadamente 1 hora.
 
 ![portada](https://github.com/aprendiendo-cosas/Te_cambio_global_ecologia_ccaa/raw/2021-2022/imagenes/portada.png)
 
@@ -12,10 +12,11 @@
 
 ## Objetivos 
 
-Esta breve sesión persigue integrar el conocimiento ecológico adquirido con el ya existente sobre el impacto de la actividad humana sobre el medio. Veremos cómo en los últimos años los impactos provocados por nuestras actividades trascienden el ámbito local y afectan a todo el planeta. Esto nos permite definir el concepto de cambio global. De manera más concreta, los objetivos docentes son:
+Esta sesión nos ayudará a contextualizar el efecto que tiene el cambio global sobre las técnicas de gestión de socioecosistemas.  Veremos cómo en las últimas décadas los impactos provocados por nuestras actividades trascienden el ámbito local y afectan a todo el planeta. Esto nos permite definir el concepto de cambio global. De manera más concreta, los objetivos docentes son:
 
 + Distinguir los impactos locales de los globales, que surgen por repetición de los primeros.
 + Aprender a reconocer las consecuencias globales de la actividad humana. 
++ Entender cómo el cambio global también tiene consecuencias sobre cómo gestionamos los socioecosistemas a escala local.
 + Constatar cómo lo anterior se incluye en los conceptos de cambio global y Antropoceno.
 + Comprender las relaciones entre el cambio global y los ciclos biogeoquímicos. En concreto la relación entre la quema de combustibles fósiles y el cambio climático. 
 
@@ -42,6 +43,5 @@ Toda la información está disponible en [este](https://github.com/aprendiendo-c
   src="https://rawcdn.githack.com/aprendiendo-cosas/Te_cambio_global_ecologia_ccaa/2021-2022/presentacion/c_global.html"
   style="width:100%; height:450px;"
 ></iframe>
-
 
 
