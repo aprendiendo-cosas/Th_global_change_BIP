@@ -28,7 +28,7 @@ The next key concept is "global change," understood as the set of alterations th
 
 Finally, we will summarize all of the above in the concept of Anthropocene, which many authors define as a new geological era in which humans govern the functioning of the Earth System.
 
-All the information is available in [this](https://github.com/aprendiendo-cosas/Th_global_change_BIP/raw/2024_2025/presentation/global_change_anthropocene.xmind) mind map, which can be seen below and also on [this](https://raw.githack.com/aprendiendo-cosas/Th_global_change_BIP/main/presentation/global_change_anthropocene.html) page. 
+All the information is available in [this](https://github.com/aprendiendo-cosas/Th_global_change_BIP/raw/2024_2025/presentation/global_change_anthropocene.xmind) mind map, which can be seen below and also on [this](https://raw.githack.com/aprendiendo-cosas/Th_global_change_BIP/2024_2025/presentation/global_change_anthropocene.html) page. 
 
 <iframe
   src="https://raw.githack.com/aprendiendo-cosas/Th_global_change_BIP/2024_2025/presentation/global_change_anthropocene.html"
