@@ -1,58 +1,47 @@
-#  Cambio global. Antropoceno
+# Global Change. Anthropocene
 
-> + **_Tipo de material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;"> Teoría</span>
-> + **_Versión_**: 2024-2025
-> + **_Asignatura (grado)_**: Gestión de ecosistemas (CCAA)
-> + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
-> + **Duración**: Aproximadamente 1 hora.
+> + **_Type of material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;"> Theory</span>
+> + **_Version_**: 2024-2025
+> +  **_Subject_**: Blended Intensive Programmes
+> + **_Authors_**: Salvador Arenas-Castro (sarenascastro78@gmail.com), Curro Bonet-García (fjbonet@uco.es)
+> + **Duration**: Approximately 1 hour.
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_cambio_global_gesteco_ccaa/2024_2025/imagenes/portada.png)
+![cover](https://raw.githubusercontent.com/aprendiendo-cosas/Th_global_change_BIP/2024_2025/images/portada.png)
 
+## Objectives
 
+This session will help us contextualize the effect that global change has on the management techniques of socio-ecosystems. We will see how, in recent decades, the impacts caused by our activities transcend the local level and affect the entire planet. This allows us to define the concept of global change. More specifically, the educational objectives are:
 
-## Objetivos 
++ To distinguish between local and global impacts, which arise from the repetition of the former.
++ To learn to recognize the global consequences of human activity.
++ To understand how global change also has consequences for how we manage socio-ecosystems at the local scale.
++ To verify how the above is included in the concepts of global change and Anthropocene.
++ To understand the relationships between global change and biogeochemical cycles, specifically the relationship between fossil fuel combustion and climate change.
 
-Esta sesión nos ayudará a contextualizar el efecto que tiene el cambio global sobre las técnicas de gestión de socioecosistemas.  Veremos cómo en las últimas décadas los impactos provocados por nuestras actividades trascienden el ámbito local y afectan a todo el planeta. Esto nos permite definir el concepto de cambio global. De manera más concreta, los objetivos docentes son:
+## Contents
 
-+ Distinguir los impactos locales de los globales, que surgen por repetición de los primeros.
-+ Aprender a reconocer las consecuencias globales de la actividad humana. 
-+ Entender cómo el cambio global también tiene consecuencias sobre cómo gestionamos los socioecosistemas a escala local.
-+ Constatar cómo lo anterior se incluye en los conceptos de cambio global y Antropoceno.
-+ Comprender las relaciones entre el cambio global y los ciclos biogeoquímicos. En concreto la relación entre la quema de combustibles fósiles y el cambio climático. 
+Throughout the session, we will discuss how the extension of human civilization across the planet results in the impacts of our activities no longer being local, but affecting the entire system.
 
+We will begin by describing the concept of the "great acceleration," referring to the exponential increase in the use of natural resources by Humanity. This creates a confrontation with the physical limits of the planet. This will allow us to understand the concept of "planetary boundary."
 
+The next key concept is "global change," understood as the set of alterations that human activity causes on the functioning of the planetary system as a whole.
 
- ## Contenidos
-A lo largo de la sesión discutiremos cómo la extensión de la civilización humana sobre el planeta tiene como consecuencia que los impactos de nuestra actividad ya no sean locales, sino que afecten a todo el sistema.
+Finally, we will summarize all of the above in the concept of Anthropocene, which many authors define as a new geological era in which humans govern the functioning of the Earth System.
 
-Empezaremos describiendo el concepto de "gran aceleración", referido al aumento exponencial en el uso de recursos naturles por parte de la Humanidad. Esto genera una confrontación con los límites físicos del planeta. Esto nos permitirá comprender el concepto de "límite planetario".
-
-El siguiente concepto clave es el de "cambio global", entendido como el conjunto de alteraciones que la actividad humana provoca sobre el funcionamiento del sistema planetario en su conjunto.
-
-Por último, resumiremos todo lo anterior en el concepto de Antropoceno, que muchos autores definen como una nueva era geológica en la que es el ser humano el que rige el funcionamiento del Sistema Tierra.
-
-
-
-Toda la información está disponible en [este](https://github.com/aprendiendo-cosas/Te_cambio_global_gesteco/raw/2024_2025/presentacion/cambio_global_antropoceno.xmind) mapa mental, que puede verse a continuación y también en [esta](https://raw.githack.com/aprendiendo-cosas/Te_cambio_global_gesteco/2024_2025/presentacion/cambio_global_antropoceno.html) página. 
-
-
+All the information is available in [this](https://github.com/aprendiendo-cosas/Th_global_change_BIP/raw/2024_2025/presentation/global_change_anthropocene.xmind) mind map, which can be seen below and also on [this](https://raw.githack.com/aprendiendo-cosas/Th_global_change_BIP/main/presentation/global_change_anthropocene.html) page. 
 
 <iframe
-  src="https://raw.githack.com/aprendiendo-cosas/Te_cambio_global_gesteco/2024_2025/presentacion/cambio_global_antropoceno.html"
+  src="https://raw.githack.com/aprendiendo-cosas/Th_global_change_BIP/2024_2025/presentation/global_change_anthropocene.html"
   style="width:100%; height:450px;"
 ></iframe>
 
 
 
-****
-
-[Aquí](https://github.com/aprendiendo-cosas/Te_cambio_global_gesteco_ccaa/archive/refs/tags/2024_2025.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
 
 ****
-Haz click [aquí](https://github.com/aprendiendo-cosas/Te_cambio_global_gesteco_ccaa/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
+[Here](https://github.com/aprendiendo-cosas/Th_global_change_BIP/archive/refs/tags/2024_2025.zip) you can download a .zip file that contains this script in HTML format and all the material it includes.
 
-****
- <p xmlns:cc="http://creativecommons.org/ns#" >El contenido de este repositorio se puede utilizar bajo la siguiente licencia:  <a  href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1"  target="_blank" rel="license noopener noreferrer"  style="display:inline-block;">CC BY-NC-SA 4.0<img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"  alt=""></a></p> 
 
-<p>Esta licencia no aplica a enlaces a artículos, libros o imágenes no originales. Estos productos tienen su licencia correspondiente.</p>
+<p xmlns:cc="http://creativecommons.org/ns#">The content of this repository can be used under the following license: <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
 
+<p>This license does not apply to links to articles, books, or non-original images. These products have their corresponding license.</p>
